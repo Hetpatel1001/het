@@ -1,0 +1,7 @@
+*.pyc
+
+*.exe
+
+*.log
+
+venv/
